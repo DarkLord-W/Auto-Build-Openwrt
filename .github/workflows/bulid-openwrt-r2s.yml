@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: miwifi-4a-gigabit-build
+name: friendly-r2s-build
 
 on:
   repository_dispatch:
