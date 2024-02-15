@@ -22,7 +22,7 @@ on:
 
 jobs:
   check:
-    runs-on: debian-11
+    runs-on: debian-11.0
 
     steps:
 
