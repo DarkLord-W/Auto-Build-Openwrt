@@ -24,6 +24,6 @@ echo 'src-git routing https://github.com/coolsnowwolf/routing.git' >>feeds.conf.
 echo 'src-git telephony https://git.openwrt.org/feed/telephony.git' >>feeds.conf.default
 echo 'src-git helloworld https://github.com/fw876/helloworld.git' >>feeds.conf.default
 echo 'src-git targets https://github.com/openwrt/targets.git' >>feeds.conf.default
-echo 'src-git appfilter https://github.com/destan19/OpenAppFilter.git' >>feeds.conf.default
+
 
 
