@@ -18,10 +18,10 @@ echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages.git' >>feeds.con
 echo 'src-git small https://github.com/kenzok8/small.git' >>feeds.conf.default
 echo 'src-git appfilter https://github.com/destan19/OpenAppFilter.git' >>feeds.conf.default
 # echo 'src-git packages https://github.com/coolsnowwolf/packages.git' >>feeds.conf.default
-echo 'src-git luci https://github.com/coolsnowwolf/luci.git' >>feeds.conf.default
+# echo 'src-git luci https://github.com/coolsnowwolf/luci.git' >>feeds.conf.default
 echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
-echo 'src-git routing https://github.com/coolsnowwolf/routing.git' >>feeds.conf.default
-echo 'src-git telephony https://git.openwrt.org/feed/telephony.git' >>feeds.conf.default
+# echo 'src-git routing https://github.com/coolsnowwolf/routing.git' >>feeds.conf.default
+# echo 'src-git telephony https://git.openwrt.org/feed/telephony.git' >>feeds.conf.default
 echo 'src-git helloworld https://github.com/fw876/helloworld.git' >>feeds.conf.default
 echo 'src-git targets https://github.com/openwrt/targets.git' >>feeds.conf.default
 
